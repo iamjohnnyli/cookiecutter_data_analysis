@@ -1,6 +1,6 @@
 # Cookiecutter Data Analysis Template
 
-This is a [cookiecutter template](http://drivendata.github.io/cookiecutter-data-science/) for data analysis. This template will jump start your data science projects.
+This is a [cookiecutter template](http://drivendata.github.io/cookiecutter-data-science/) for data analysis. This template will jump start your data analysis projects.
 
 #### Quick Start
 
